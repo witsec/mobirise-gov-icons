@@ -1,9 +1,9 @@
 {
-    "name": "Gov Icons v1",
+    "name": "Gov Icons v2",
     "alias": "witsec-gov-icons",
-    "version": 1,
+    "version": 2,
     "minAppVersion": "4",
     "plugins": ["gov-icons"],
     "description": "Add government themed icons to your website. <a href='https://witsec.nl'>Learn more...</a>",
-    "logo": "thumbnail.png"
+    "logo": "thumbnail.svg"
 }
